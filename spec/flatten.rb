@@ -1,6 +1,6 @@
 require_relative '../lib/flatten.rb'
 
-describe 'flatten' do
+describe Lists do
 
   include Lists
 
